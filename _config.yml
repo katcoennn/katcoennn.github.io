@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Kathleen Coen"
-  avatar : "/assets/images/profile-pic.jpeg"
+  avatar : "/assets/images/profile-pic.JPEG"
   bio    : "Penetration Tester"
   links:
     - label: "Website"
