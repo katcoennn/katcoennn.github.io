@@ -12,7 +12,7 @@ My name is Kathleen Coen and I currently work as a penetration tester. I created
 
 ## Certifications
 
-- Currently studying for the OSED and CISSP
+- Currently studying for the OSED
 - GIAC Certified Penetration Tester
 - GIAC Certified Incident Handler 
 
